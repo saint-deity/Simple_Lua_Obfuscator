@@ -1,0 +1,1 @@
+print("RICKRFOLLLl HAHAHHAHA")
